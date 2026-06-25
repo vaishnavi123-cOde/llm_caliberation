@@ -1,0 +1,226 @@
+model,question,ground_truth,model_answer,confidence,source_category,research_category,error_type
+groq,Which planet has the most moons?,Saturn,Jupiter,0.93,Science,Factual Knowledge,Confidence Miscalibration
+groq,What is the main gas found in the Sun?,Hydrogen,Oxygen,0.96,Science,Factual Knowledge,Confidence Miscalibration
+groq,What type of energy is stored in a battery?,Chemical,Thermal,0.96,Science,Logical Reasoning,Confidence Miscalibration
+groq,What is the largest moon of Saturn?,Titan,Callisto,0.6263,Science,Factual Knowledge,Hallucination
+groq,What is the chemical symbol for sodium?,Na,So,0.6828,Science,Factual Knowledge,Hallucination
+groq,What is the smallest planet in our solar system?,Mercury,Mars,0.959,Science,Factual Knowledge,Confidence Miscalibration
+groq,What type of lens is thicker at the center?,Convex,Cylindrical,0.7826,Science,Logical Reasoning,Logical Error
+groq,What is the SI unit of energy?,Joule,Pascal,0.96,Science,Factual Knowledge,Confidence Miscalibration
+groq,What element is liquid at room temperature?,Mercury,Iron,0.8155,Science,Factual Knowledge,Hallucination
+groq,What is the process of cell division in somatic cells?,Mitosis,Meiosis,0.9254,Science,Factual Knowledge,Confidence Miscalibration
+groq,What is the largest type of blood vessel?,Artery,Venule,0.7719,Science,Factual Knowledge,Hallucination
+groq,What is the study of earthquakes called?,Seismology,Meteorology,0.4981,Science,Factual Knowledge,Hallucination
+groq,What type of bond involves electron transfer?,Ionic,Covalent,0.8879,Science,Logical Reasoning,Confidence Miscalibration
+groq,What is the main type of rock found on the ocean floor?,Basalt,Limestone,0.96,Science,Factual Knowledge,Confidence Miscalibration
+groq,In what year did World War II end?,1945,1946,0.96,History,Factual Knowledge,Confidence Miscalibration
+groq,What ancient civilization built the pyramids?,Egyptian,Greek,0.9284,History,Factual Knowledge,Confidence Miscalibration
+groq,What was the Renaissance a revival of?,Art and learning,Science,0.96,History,Factual Knowledge,Confidence Miscalibration
+groq,Which war was fought between the North and South in the US?,Civil War,Revolutionary War,0.9252,History,Factual Knowledge,Confidence Miscalibration
+groq,What was the name of the first manned moon landing mission?,Apollo 11,Mercury 9,0.8742,History,Factual Knowledge,Confidence Miscalibration
+groq,Who was the first woman to fly solo across the Atlantic?,Amelia Earhart,Harriet Quimby,0.6741,History,Factual Knowledge,Hallucination
+groq,What ancient wonder was located in Babylon?,Hanging Gardens,Colossus,0.9592,History,Factual Knowledge,Confidence Miscalibration
+groq,What event started World War I?,Assassination of Archduke Ferdinand,Sinking of Lusitania,0.8021,History,Factual Knowledge,Hallucination
+groq,Who wrote the Declaration of Independence?,Thomas Jefferson,Benjamin Franklin,0.5601,History,Factual Knowledge,Hallucination
+groq,What year did the Soviet Union collapse?,1991,1989,0.96,History,Factual Knowledge,Confidence Miscalibration
+groq,Who was the first Emperor of Rome?,Augustus,Nero,0.96,History,Factual Knowledge,Confidence Miscalibration
+groq,What country was divided at the 38th parallel?,Korea,Germany,0.6726,History,Factual Knowledge,Hallucination
+groq,What year did the French Revolution begin?,1789,1804,0.96,History,Factual Knowledge,Confidence Miscalibration
+groq,Who was the first European to reach India by sea?,Vasco da Gama,Columbus,0.6809,History,Factual Knowledge,Hallucination
+groq,What is the integral of 1/x?,ln(x),e^x,0.8987,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What is the value of 2^10?,1024,256,0.96,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What is the logarithm base 10 of 100?,2,3,0.8741,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,How many sides does a hexagon have?,6,8,0.96,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What is 9 squared?,81,18,0.96,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,"What is the range of 10, 20, 30, 40?",30,40,0.9577,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What type of number is pi?,Irrational,Rational,0.96,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What is the probability of rolling a 6 on a fair die?,1/6,1/3,0.7928,Mathematics,Mathematical Reasoning,Calculation Error
+groq,What is the greatest common divisor of 12 and 18?,6,2,0.6625,Mathematics,Mathematical Reasoning,Calculation Error
+groq,What is 0.5 as a fraction?,1/2,1/3,0.737,Mathematics,Mathematical Reasoning,Calculation Error
+groq,What is the quadratic formula used for?,Quadratic equations,Linear equations,0.714,Mathematics,Mathematical Reasoning,Calculation Error
+groq,Who wrote 'Romeo and Juliet'?,William Shakespeare,Charles Dickens,0.96,Literature,Factual Knowledge,Confidence Miscalibration
+groq,What is the first book of the Harry Potter series?,Philosopher's Stone,Prisoner of Azkaban,0.9153,Literature,Factual Knowledge,Confidence Miscalibration
+groq,Who wrote 'The Odyssey'?,Homer,Sophocles,0.7833,Literature,Factual Knowledge,Hallucination
+groq,Who wrote 'Crime and Punishment'?,Fyodor Dostoevsky,Leo Tolstoy,0.7601,Literature,Factual Knowledge,Hallucination
+groq,What is the fictional land in 'The Lord of the Rings'?,Middle-earth,Westeros,0.7933,Literature,Factual Knowledge,Hallucination
+groq,Who wrote 'The Picture of Dorian Gray'?,Oscar Wilde,George Bernard Shaw,0.9592,Literature,Factual Knowledge,Confidence Miscalibration
+groq,Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez,Mario Vargas Llosa,0.8974,Literature,Factual Knowledge,Confidence Miscalibration
+groq,What is the capital of France?,Paris,London,0.96,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What country has the most people?,India,China,1.0,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What is the capital of Japan?,Tokyo,Beijing,0.9007,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What is the longest mountain range on land?,Andes,Himalayas,0.6822,Geography,Mathematical Reasoning,Calculation Error
+groq,What river flows through London?,Thames,Danube,0.8078,Geography,Factual Knowledge,Hallucination
+groq,What is the capital of Australia?,Canberra,Sydney,0.8995,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What is the largest island in the world?,Greenland,New Guinea,0.9051,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What country has the most time zones?,France,United States,0.9365,Geography,Factual Knowledge,Confidence Miscalibration
+groq,What does 'HTTP' stand for?,HyperText Transfer Protocol,HyperText Transmission Protocol,0.9004,Technology,Factual Knowledge,Confidence Miscalibration
+groq,What does SQL stand for?,Structured Query Language,Simple Query Language,0.9389,Technology,Factual Knowledge,Confidence Miscalibration
+groq,What year was the first iPhone released?,2007,2005,0.7796,Technology,Factual Knowledge,Hallucination
+groq,What is the most popular programming language in 2024?,Python,C++,0.7656,Technology,Factual Knowledge,Hallucination
+groq,What protocol is used for secure web communication?,HTTPS,SMTP,0.7081,Technology,Factual Knowledge,Hallucination
+groq,What programming paradigm does Python primarily support?,Object-oriented,Procedural,0.7863,Technology,Factual Knowledge,Hallucination
+groq,What does 'API' stand for?,Application Programming Interface,Automated Program Interface,0.7522,Technology,Factual Knowledge,Hallucination
+groq,Who wrote 'Thus Spoke Zarathustra'?,Friedrich Nietzsche,Immanuel Kant,0.4726,Philosophy,Logical Reasoning,Logical Error
+groq,What is the name of Earth's only natural satellite?,Moon,Europa,0.96,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What type of star is the Sun?,Yellow dwarf,White dwarf,0.8615,Astronomy,Logical Reasoning,Confidence Miscalibration
+groq,What is a group of stars called?,Constellation,Cluster,0.96,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What astronomical event occurs when the Moon passes between Earth and Sun?,Solar eclipse,Lunar eclipse,0.749,Astronomy,Factual Knowledge,Hallucination
+groq,What is the nearest star to Earth after the Sun?,Proxima Centauri,Alpha Centauri,0.96,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What year was Pluto reclassified as a dwarf planet?,2006,2005,0.9421,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What organ pumps blood?,Heart,Liver,0.8581,Biology,Factual Knowledge,Confidence Miscalibration
+groq,What process releases energy from glucose?,Respiration,Fermentation,0.9345,Biology,Logical Reasoning,Confidence Miscalibration
+groq,What is the study of living things called?,Biology,Geology,0.9047,Biology,Factual Knowledge,Confidence Miscalibration
+groq,What is the lightest element?,Hydrogen,Lithium,0.96,Chemistry,Factual Knowledge,Confidence Miscalibration
+groq,What is the chemical symbol for lead?,Pb,Ld,0.96,Chemistry,Factual Knowledge,Confidence Miscalibration
+groq,What is the pH of lemon juice?,2,5,0.9,Chemistry,Factual Knowledge,Confidence Miscalibration
+groq,What is the common name for dihydrogen monoxide?,Water,Hydrogen peroxide,0.7415,Chemistry,Factual Knowledge,Hallucination
+groq,What type of wave is light?,Transverse,Surface,0.8959,Physics,Logical Reasoning,Confidence Miscalibration
+groq,What force keeps planets in orbit around the sun?,Gravity,Weak nuclear,0.7421,Science,Factual Knowledge,Hallucination
+groq,What is the most popular programming language in 2024?,Python,C++,0.7656,Technology,Factual Knowledge,Hallucination
+groq,What is the name of the galaxy closest to the Milky Way?,Andromeda,Whirlpool,0.96,Science,Factual Knowledge,Confidence Miscalibration
+groq,What does 'AI' stand for?,Artificial Intelligence,Automated Intelligence,0.8591,Technology,Factual Knowledge,Confidence Miscalibration
+groq,What type of rock is formed from cooled magma?,Igneous,Sedimentary,0.96,Science,Logical Reasoning,Confidence Miscalibration
+groq,What is the value of pi to two decimal places?,3.14,3.16,0.96,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+groq,What is the hardest natural substance?,Diamond,Platinum,0.96,Science,Factual Knowledge,Confidence Miscalibration
+groq,Which planet has the most moons?,Saturn,Jupiter,0.93,Science,Factual Knowledge,Confidence Miscalibration
+groq,What element is liquid at room temperature?,Mercury,Iron,0.8155,Science,Factual Knowledge,Hallucination
+groq,What is the value of sin(90 degrees)?,1,0.5,0.7444,Mathematics,Mathematical Reasoning,Calculation Error
+groq,Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez,Mario Vargas Llosa,0.8974,Literature,Factual Knowledge,Confidence Miscalibration
+groq,Who wrote 'The Odyssey'?,Homer,Sophocles,0.7833,Literature,Factual Knowledge,Hallucination
+groq,What type of lens is thicker at the center?,Convex,Cylindrical,0.7826,Science,Logical Reasoning,Logical Error
+groq,What is the process of cell division in somatic cells?,Mitosis,Meiosis,0.9254,Science,Factual Knowledge,Confidence Miscalibration
+groq,What is the name of Earth's only natural satellite?,Moon,Europa,0.96,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What school of thought emphasizes individual existence and freedom?,Existentialism,Pragmatism,0.96,Philosophy,Logical Reasoning,Confidence Miscalibration
+groq,What does CPU stand for?,Central Processing Unit,Central Process Unit,0.9337,Technology,Factual Knowledge,Confidence Miscalibration
+groq,What is the pH of lemon juice?,2,5,0.9,Chemistry,Factual Knowledge,Confidence Miscalibration
+groq,What is a comet's tail made of?,Gas and dust,Ice,0.9342,Astronomy,Factual Knowledge,Confidence Miscalibration
+groq,What programming paradigm does Python primarily support?,Object-oriented,Procedural,0.7863,Technology,Factual Knowledge,Hallucination
+groq,What is the lightest element?,Hydrogen,Lithium,0.96,Chemistry,Factual Knowledge,Confidence Miscalibration
+groq,What is the chemical formula for water?,H2O,CO2,0.96,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the chemical symbol for gold?,Au,Fe,0.5876,Science,Factual Knowledge,Hallucination
+gemini,What planet is known as the Red Planet?,Mars,Jupiter,0.9429,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the powerhouse of the cell?,Mitochondria,Ribosome,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What gas do plants absorb from the atmosphere?,Carbon dioxide,Oxygen,0.8378,Science,Factual Knowledge,Hallucination
+gemini,What is the atomic number of carbon?,6,4,0.9422,Science,Factual Knowledge,Confidence Miscalibration
+gemini,Which blood type is the universal donor?,O,B,0.9645,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the pH of pure water?,7,11,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What type of bond involves sharing electrons?,Covalent,Metallic,0.944,Science,Logical Reasoning,Confidence Miscalibration
+gemini,What is the freezing point of water in Celsius?,0,32,0.9686,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What type of rock is formed from cooled magma?,Igneous,Metamorphic,0.7493,Science,Logical Reasoning,Logical Error
+gemini,What is the chemical formula for table salt?,NaCl,KCl,0.7715,Science,Factual Knowledge,Hallucination
+gemini,What is the human body's largest artery?,Aorta,Carotid,0.7897,Science,Factual Knowledge,Hallucination
+gemini,What is the main gas found in the Sun?,Hydrogen,Carbon,0.9526,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the unit of frequency?,Hertz,Tesla,0.9326,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the largest internal organ in the human body?,Liver,Heart,0.9663,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What planet is closest to the sun?,Mercury,Earth,0.6697,Science,Factual Knowledge,Hallucination
+gemini,Which planet rotates on its side?,Uranus,Saturn,0.7207,Science,Factual Knowledge,Hallucination
+gemini,What is the main type of bond in a water molecule?,Covalent,Hydrogen,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the smallest planet in our solar system?,Mercury,Mars,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the most abundant element in the universe?,Hydrogen,Oxygen,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What type of lens is thicker at the center?,Convex,Concave,0.6774,Science,Logical Reasoning,Logical Error
+gemini,How many chromosomes do humans have?,46,23,0.9392,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the study of fungi called?,Mycology,Bacteriology,0.8167,Science,Factual Knowledge,Hallucination
+gemini,What is the SI unit of energy?,Joule,Pascal,0.7748,Science,Factual Knowledge,Hallucination
+gemini,What element is liquid at room temperature?,Mercury,Lead,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the largest type of blood vessel?,Artery,Venule,0.7538,Science,Factual Knowledge,Hallucination
+gemini,What is the name of the galaxy closest to the Milky Way?,Andromeda,Triangulum,0.7339,Science,Factual Knowledge,Hallucination
+gemini,What particle has no charge?,Neutron,Positron,0.9472,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the human body's longest bone?,Femur,Humerus,0.929,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the main component of the Sun?,Hydrogen,Iron,0.9505,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the normal human body temperature in Celsius?,37.0,35.0,0.9559,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the outermost layer of Earth called?,Crust,Core,0.8142,Science,Factual Knowledge,Hallucination
+gemini,What planet has the Great Red Spot?,Jupiter,Neptune,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What ancient civilization built the pyramids?,Egyptian,Greek,0.767,History,Factual Knowledge,Hallucination
+gemini,What year did the Berlin Wall fall?,1989,1987,0.8191,History,Factual Knowledge,Hallucination
+gemini,What empire was ruled by Genghis Khan?,Mongol,Persian,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What was the name of the first manned moon landing mission?,Apollo 11,Apollo 13,0.8468,History,Factual Knowledge,Hallucination
+gemini,What year did the Titanic sink?,1912,1910,0.8168,History,Factual Knowledge,Hallucination
+gemini,Who led the Indian independence movement?,Mahatma Gandhi,Subhas Chandra Bose,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What wall divided Berlin?,Berlin Wall,Hadrian's Wall,0.8569,History,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote the Declaration of Independence?,Thomas Jefferson,George Washington,0.7326,History,Factual Knowledge,Hallucination
+gemini,What country gave the Statue of Liberty to the US?,France,Spain,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What ship brought the Pilgrims to America?,Mayflower,Victoria,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What year did the Soviet Union collapse?,1991,1989,0.9331,History,Factual Knowledge,Confidence Miscalibration
+gemini,Who was the first Emperor of Rome?,Augustus,Julius Caesar,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What was the name of the ship that brought Darwin to the Galapagos?,Beagle,Discovery,0.7848,History,Factual Knowledge,Hallucination
+gemini,What treaty ended World War I?,Treaty of Versailles,Treaty of Paris,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What empire did the Aztecs belong to?,Mexica,Maya,0.9226,History,Factual Knowledge,Confidence Miscalibration
+gemini,What is the square root of 144?,12,11,0.8917,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,What is the derivative of x^2?,2x,x,0.793,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the integral of 1/x?,ln(x),x,0.7282,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the value of 2^10?,1024,256,0.7875,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the factorial of 5?,120,100,0.97,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,What is the next prime number after 7?,11,9,0.9225,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,What is the slope of y = 3x + 2?,3,2,0.7138,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the cube root of 27?,3,4,0.7442,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,"What is the median of 1, 3, 5, 7, 9?",5,4,0.8246,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,"What is the mode of 2, 2, 3, 4, 5?",2,4,0.7692,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the value of sin(90 degrees)?,1,0,0.7399,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What is the volume of a cube with side 3?,27,9,0.97,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,What is the least common multiple of 4 and 6?,12,2,0.97,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,Who wrote 'Romeo and Juliet'?,William Shakespeare,Jane Austen,0.97,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote '1984'?,George Orwell,Aldous Huxley,0.97,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,John Steinbeck,0.8658,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote 'The Catcher in the Rye'?,J.D. Salinger,Harper Lee,0.8758,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote 'Don Quixote'?,Miguel de Cervantes,Pablo Neruda,0.8437,Literature,Factual Knowledge,Hallucination
+gemini,Who wrote 'War and Peace'?,Leo Tolstoy,Anton Chekhov,0.96,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote 'Frankenstein'?,Mary Shelley,Edgar Allan Poe,0.6176,Literature,Factual Knowledge,Hallucination
+gemini,Who wrote 'The Picture of Dorian Gray'?,Oscar Wilde,George Bernard Shaw,0.9442,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,Who wrote 'The Hobbit'?,J.R.R. Tolkien,J.K. Rowling,0.8041,Literature,Factual Knowledge,Hallucination
+gemini,What is the longest river in the world?,Nile,Mississippi,0.9133,Geography,Factual Knowledge,Confidence Miscalibration
+gemini,What is the largest continent by area?,Asia,Africa,0.9236,Geography,Factual Knowledge,Confidence Miscalibration
+gemini,What is the smallest country in the world?,Vatican City,Monaco,0.9007,Geography,Factual Knowledge,Confidence Miscalibration
+gemini,What is the longest mountain range on land?,Andes,Himalayas,0.8019,Geography,Mathematical Reasoning,Calculation Error
+gemini,What is the deepest point in the ocean?,Mariana Trench,Java Trench,0.72,Geography,Factual Knowledge,Hallucination
+gemini,What is the capital of Australia?,Canberra,Sydney,0.97,Geography,Factual Knowledge,Confidence Miscalibration
+gemini,What is the largest island in the world?,Greenland,New Guinea,0.662,Geography,Factual Knowledge,Hallucination
+gemini,What is the main language of the web?,HTML,C++,0.8708,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What does 'HTTP' stand for?,HyperText Transfer Protocol,High-Tech Transfer Protocol,0.8605,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What company developed the iPhone?,Apple,Google,0.8596,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What is the binary representation of 5?,101,100,0.97,Technology,Mathematical Reasoning,Confidence Miscalibration
+gemini,Who created Linux?,Linus Torvalds,Bill Gates,0.647,Technology,Factual Knowledge,Hallucination
+gemini,What does SQL stand for?,Structured Query Language,Standard Query Language,0.9052,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What year was the first iPhone released?,2007,2006,0.97,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What is the most popular programming language in 2024?,Python,JavaScript,0.9448,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What does 'DNS' stand for?,Domain Name System,Data Network Security,0.8857,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,Who is considered the father of Western philosophy?,Socrates,Aristotle,0.7038,Philosophy,Logical Reasoning,Logical Error
+gemini,What philosophical concept is Kant famous for?,The categorical imperative,The unexamined life,0.97,Philosophy,Logical Reasoning,Confidence Miscalibration
+gemini,What is the study of knowledge called?,Epistemology,Logic,0.8501,Philosophy,Logical Reasoning,Confidence Miscalibration
+gemini,Who wrote 'Thus Spoke Zarathustra'?,Friedrich Nietzsche,Immanuel Kant,0.97,Philosophy,Logical Reasoning,Confidence Miscalibration
+gemini,What type of star is the Sun?,Yellow dwarf,White dwarf,0.8968,Astronomy,Logical Reasoning,Confidence Miscalibration
+gemini,What is a group of stars called?,Constellation,Nebula,0.9659,Astronomy,Factual Knowledge,Confidence Miscalibration
+gemini,What is a comet's tail made of?,Gas and dust,Plasma,0.97,Astronomy,Factual Knowledge,Confidence Miscalibration
+gemini,What system breaks down food?,Digestive,Respiratory,0.8275,Biology,Logical Reasoning,Logical Error
+gemini,What system fights infection?,Immune,Circulatory,0.8511,Biology,Logical Reasoning,Confidence Miscalibration
+gemini,What is the chemical formula for ammonia?,NH3,N2O,0.97,Chemistry,Factual Knowledge,Confidence Miscalibration
+gemini,What is Newton's first law about?,Inertia,Acceleration,0.7153,Physics,Factual Knowledge,Logical Error
+gemini,What law states energy cannot be created or destroyed?,First law of thermodynamics,Ohm's law,0.97,Physics,Logical Reasoning,Confidence Miscalibration
+gemini,What is the acceleration due to gravity on Earth (m/s^2)?,9.8,7.8,0.6692,Physics,Factual Knowledge,Logical Error
+gemini,"What law relates voltage, current, and resistance?",Ohm's law,Coulomb's law,0.97,Physics,Logical Reasoning,Confidence Miscalibration
+gemini,What is the speed of light approximately (km/s)?,"300,000","500,000",0.8441,Physics,Factual Knowledge,Logical Error
+gemini,What is the change in velocity over time called?,Acceleration,Momentum,0.9207,Physics,Factual Knowledge,Confidence Miscalibration
+gemini,What is the chemical formula for table salt?,NaCl,KCl,0.7715,Science,Factual Knowledge,Hallucination
+gemini,What is the most popular programming language in 2024?,Python,JavaScript,0.9448,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What is the name of the galaxy closest to the Milky Way?,Andromeda,Triangulum,0.7339,Science,Factual Knowledge,Hallucination
+gemini,What is the largest internal organ in the human body?,Liver,Heart,0.9663,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What type of rock is formed from cooled magma?,Igneous,Metamorphic,0.7493,Science,Logical Reasoning,Logical Error
+gemini,What is the speed of light approximately (km/s)?,"300,000","500,000",0.8441,Physics,Factual Knowledge,Logical Error
+gemini,What is the freezing point of water in Celsius?,0,32,0.9686,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What element is liquid at room temperature?,Mercury,Lead,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What is the value of sin(90 degrees)?,1,0,0.7399,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,What type of lens is thicker at the center?,Convex,Concave,0.6774,Science,Logical Reasoning,Logical Error
+gemini,What is the longest mountain range on land?,Andes,Himalayas,0.8019,Geography,Mathematical Reasoning,Calculation Error
+gemini,What is the main language of the web?,HTML,C++,0.8708,Technology,Factual Knowledge,Confidence Miscalibration
+gemini,What is the chemical formula for ammonia?,NH3,N2O,0.97,Chemistry,Factual Knowledge,Confidence Miscalibration
+gemini,What is the square root of 144?,12,11,0.8917,Mathematics,Mathematical Reasoning,Confidence Miscalibration
+gemini,What is the value of 2^10?,1024,256,0.7875,Mathematics,Mathematical Reasoning,Calculation Error
+gemini,Who wrote 'War and Peace'?,Leo Tolstoy,Anton Chekhov,0.96,Literature,Factual Knowledge,Confidence Miscalibration
+gemini,What planet has the Great Red Spot?,Jupiter,Neptune,0.97,Science,Factual Knowledge,Confidence Miscalibration
+gemini,What planet is known as the Red Planet?,Mars,Jupiter,0.9429,Science,Factual Knowledge,Confidence Miscalibration
+gemini,Which planet rotates on its side?,Uranus,Saturn,0.7207,Science,Factual Knowledge,Hallucination
+gemini,Who led the Indian independence movement?,Mahatma Gandhi,Subhas Chandra Bose,0.97,History,Factual Knowledge,Confidence Miscalibration
+gemini,What is a comet's tail made of?,Gas and dust,Plasma,0.97,Astronomy,Factual Knowledge,Confidence Miscalibration
+gemini,What system fights infection?,Immune,Circulatory,0.8511,Biology,Logical Reasoning,Confidence Miscalibration
+gemini,What year did the Titanic sink?,1912,1910,0.8168,History,Factual Knowledge,Hallucination
+gemini,What is Newton's first law about?,Inertia,Acceleration,0.7153,Physics,Factual Knowledge,Logical Error
+gemini,Who was the first Emperor of Rome?,Augustus,Julius Caesar,0.97,History,Factual Knowledge,Confidence Miscalibration

@@ -1,0 +1,301 @@
+question,ground_truth,model_answer,confidence,correct,category
+What is the chemical symbol for gold?,Au,Fe,0.5236,0,Science
+What planet is known as the Red Planet?,Mars,Jupiter,0.6787,0,Science
+What is the speed of light in vacuum (m/s)?,3 x 10^8,3 x 10^8,0.6103,1,Science
+What is the powerhouse of the cell?,Mitochondria,Ribosome,0.7164,0,Science
+What gas do plants absorb from the atmosphere?,Carbon dioxide,Oxygen,0.6077,0,Science
+What is the atomic number of carbon?,6,4,0.6779,0,Science
+What force keeps planets in orbit around the sun?,Gravity,Gravity,0.583,1,Science
+What is the hardest natural substance?,Diamond,Diamond,0.7164,1,Science
+What is the boiling point of water at sea level in Celsius?,100,100,0.6222,1,Science
+Which blood type is the universal donor?,O,B,0.7069,0,Science
+What is the largest organ in the human body?,Skin,Skin,0.5929,1,Science
+What particle has a negative charge?,Electron,Electron,0.5919,1,Science
+What is the pH of pure water?,7,11,0.7164,0,Science
+Which vitamin is produced when skin is exposed to sunlight?,Vitamin D,Vitamin D,0.5996,1,Science
+What element is needed for combustion?,Oxygen,Oxygen,0.6194,1,Science
+What is the SI unit of force?,Newton,Newton,0.5774,1,Science
+What galaxy is Earth in?,Milky Way,Milky Way,0.6017,1,Science
+What is the most abundant gas in Earth's atmosphere?,Nitrogen,Nitrogen,0.6383,1,Science
+What is the process by which plants make food?,Photosynthesis,Photosynthesis,0.5913,1,Science
+What is the smallest unit of matter?,Atom,Atom,0.6239,1,Science
+What type of bond involves sharing electrons?,Covalent,Metallic,0.6799,0,Science
+What is the main function of red blood cells?,Carry oxygen,Carry oxygen,0.5929,1,Science
+What is the freezing point of water in Celsius?,0,32,0.7139,0,Science
+Which planet has the most moons?,Saturn,Saturn,0.605,1,Science
+What is the chemical formula for water?,H2O,H2O,0.6206,1,Science
+What is the unit of electrical resistance?,Ohm,Ohm,0.5975,1,Science
+What type of rock is formed from cooled magma?,Igneous,Metamorphic,0.5725,0,Science
+What is the largest planet in our solar system?,Jupiter,Jupiter,0.5403,1,Science
+What is the chemical formula for table salt?,NaCl,KCl,0.5804,0,Science
+What is the human body's largest artery?,Aorta,Carotid,0.5873,0,Science
+How many bones are in the adult human body?,206,206,0.5743,1,Science
+What element has the symbol 'Fe'?,Iron,Iron,0.669,1,Science
+What is the main gas found in the Sun?,Hydrogen,Carbon,0.69,0,Science
+What is the process by which liquid turns to gas?,Evaporation,Evaporation,0.6628,1,Science
+What is the unit of frequency?,Hertz,Tesla,0.6683,0,Science
+What is the largest internal organ in the human body?,Liver,Heart,0.7099,0,Science
+What planet is closest to the sun?,Mercury,Earth,0.547,0,Science
+What is the term for animals that eat only plants?,Herbivores,Herbivores,0.6182,1,Science
+What is the speed of sound in air roughly (m/s)?,343,343,0.7164,1,Science
+What is the DNA shape called?,Double helix,Double helix,0.6314,1,Science
+Which planet rotates on its side?,Uranus,Saturn,0.5628,0,Science
+What type of energy is stored in a battery?,Chemical,Chemical,0.635,1,Science
+What is the largest moon of Saturn?,Titan,Titan,0.7124,1,Science
+What is the main type of bond in a water molecule?,Covalent,Hydrogen,0.7164,0,Science
+What is the function of the nervous system?,Signal transmission,Signal transmission,0.6119,1,Science
+What is the chemical symbol for sodium?,Na,Na,0.5661,1,Science
+What is the smallest planet in our solar system?,Mercury,Mars,0.7164,0,Science
+What is the term for a species' natural home?,Habitat,Habitat,0.5615,1,Science
+What is the unit of electric current?,Ampere,Ampere,0.7164,1,Science
+What is the most abundant element in the universe?,Hydrogen,Oxygen,0.7164,0,Science
+What type of lens is thicker at the center?,Convex,Concave,0.5493,0,Science
+What is the main pigment in plants?,Chlorophyll,Chlorophyll,0.6636,1,Science
+How many chromosomes do humans have?,46,23,0.6748,0,Science
+What is the study of fungi called?,Mycology,Bacteriology,0.5983,0,Science
+What is the SI unit of energy?,Joule,Pascal,0.5816,0,Science
+What element is liquid at room temperature?,Mercury,Lead,0.7164,0,Science
+What is the process of cell division in somatic cells?,Mitosis,Mitosis,0.5841,1,Science
+What is the main source of energy for Earth?,Sun,Sun,0.6564,1,Science
+What is the term for a substance that speeds up a reaction?,Catalyst,Catalyst,0.652,1,Science
+What is the chemical symbol for potassium?,K,K,0.6148,1,Science
+What is the largest type of blood vessel?,Artery,Venule,0.574,0,Science
+What is the study of earthquakes called?,Seismology,Seismology,0.5806,1,Science
+What is the name of the galaxy closest to the Milky Way?,Andromeda,Triangulum,0.5672,0,Science
+What particle has no charge?,Neutron,Positron,0.6835,0,Science
+What is the human body's longest bone?,Femur,Humerus,0.665,0,Science
+What type of bond involves electron transfer?,Ionic,Ionic,0.563,1,Science
+What element is used in light bulbs?,Tungsten,Tungsten,0.5251,1,Science
+What is the main component of the Sun?,Hydrogen,Iron,0.6874,0,Science
+What is the normal human body temperature in Celsius?,37.0,35.0,0.6943,0,Science
+What is the outermost layer of Earth called?,Crust,Core,0.5972,0,Science
+What is the study of heredity called?,Genetics,Genetics,0.7039,1,Science
+What planet has the Great Red Spot?,Jupiter,Neptune,0.7164,0,Science
+What is the main type of rock found on the ocean floor?,Basalt,Basalt,0.604,1,Science
+In what year did World War II end?,1945,1945,0.6467,1,History
+Who was the first President of the United States?,George Washington,George Washington,0.5913,1,History
+What ancient civilization built the pyramids?,Egyptian,Greek,0.5788,0,History
+What year did the Berlin Wall fall?,1989,1987,0.5993,0,History
+Who discovered America in 1492?,Christopher Columbus,Christopher Columbus,0.6334,1,History
+What empire was ruled by Genghis Khan?,Mongol,Persian,0.7164,0,History
+What was the Renaissance a revival of?,Art and learning,Art and learning,0.6088,1,History
+Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,0.6133,1,History
+What country built the first atomic bomb?,United States,United States,0.5813,1,History
+Which war was fought between the North and South in the US?,Civil War,Civil War,0.6522,1,History
+What was the name of the first manned moon landing mission?,Apollo 11,Apollo 13,0.612,0,History
+Who was the first woman to fly solo across the Atlantic?,Amelia Earhart,Amelia Earhart,0.6159,1,History
+What ancient wonder was located in Babylon?,Hanging Gardens,Hanging Gardens,0.6297,1,History
+What year did the Titanic sink?,1912,1910,0.5983,0,History
+Who led the Indian independence movement?,Mahatma Gandhi,Subhas Chandra Bose,0.7164,0,History
+What wall divided Berlin?,Berlin Wall,Hadrian's Wall,0.6171,0,History
+What dynasty built the Forbidden City?,Ming,Ming,0.5808,1,History
+Who was the last Pharaoh of Egypt?,Cleopatra,Cleopatra,0.6456,1,History
+What event started World War I?,Assassination of Archduke Ferdinand,Assassination of Archduke Ferdinand,0.5368,1,History
+Who wrote the Declaration of Independence?,Thomas Jefferson,George Washington,0.5668,0,History
+What was the longest war in history?,Hundred Years' War,Hundred Years' War,0.5852,1,History
+What country gave the Statue of Liberty to the US?,France,Spain,0.7164,0,History
+What ship brought the Pilgrims to America?,Mayflower,Victoria,0.7164,0,History
+What year did the Soviet Union collapse?,1991,1989,0.6688,0,History
+Who was the first Emperor of Rome?,Augustus,Julius Caesar,0.7164,0,History
+What was the name of the ship that brought Darwin to the Galapagos?,Beagle,Discovery,0.5854,0,History
+What treaty ended World War I?,Treaty of Versailles,Treaty of Paris,0.7164,0,History
+What country was divided at the 38th parallel?,Korea,Korea,0.6081,1,History
+Who invented the printing press?,Johannes Gutenberg,Johannes Gutenberg,0.5604,1,History
+What empire did the Aztecs belong to?,Mexica,Maya,0.6594,0,History
+What was the name of the US program to put a man on the moon?,Apollo,Apollo,0.6427,1,History
+Who wrote the 'I Have a Dream' speech?,Martin Luther King Jr.,Martin Luther King Jr.,0.5919,1,History
+What year did the French Revolution begin?,1789,1789,0.65,1,History
+Who was the first European to reach India by sea?,Vasco da Gama,Vasco da Gama,0.6119,1,History
+What is the square root of 144?,12,11,0.6369,0,Mathematics
+What is the value of pi to two decimal places?,3.14,3.14,0.5808,1,Mathematics
+What is 7 x 8?,56,56,0.6291,1,Mathematics
+What is the derivative of x^2?,2x,x,0.5886,0,Mathematics
+What is the integral of 1/x?,ln(x),x,0.5653,0,Mathematics
+What is the area of a circle with radius 5?,25π,25π,0.6272,1,Mathematics
+What is 15% of 200?,30,30,0.6116,1,Mathematics
+What is the value of 2^10?,1024,256,0.5864,0,Mathematics
+What is the factorial of 5?,120,100,0.7164,0,Mathematics
+What is the sum of angles in a triangle (degrees)?,180,180,0.6165,1,Mathematics
+What is the next prime number after 7?,11,9,0.6593,0,Mathematics
+What is the logarithm base 10 of 100?,2,2,0.5865,1,Mathematics
+What is the Pythagorean theorem formula?,a^2 + b^2 = c^2,a^2 + b^2 = c^2,0.5959,1,Mathematics
+What is the slope of y = 3x + 2?,3,2,0.5606,0,Mathematics
+How many sides does a hexagon have?,6,6,0.5638,1,Mathematics
+What is the cube root of 27?,3,4,0.5707,0,Mathematics
+What is 9 squared?,81,81,0.5782,1,Mathematics
+"What is the median of 1, 3, 5, 7, 9?",5,4,0.6017,0,Mathematics
+"What is the mode of 2, 2, 3, 4, 5?",2,4,0.5796,0,Mathematics
+"What is the range of 10, 20, 30, 40?",30,30,0.6233,1,Mathematics
+What is 100 divided by 4?,25,25,0.5768,1,Mathematics
+What is the value of cos(0)?,1,1,0.5596,1,Mathematics
+What is the value of sin(90 degrees)?,1,0,0.5692,0,Mathematics
+What type of number is pi?,Irrational,Irrational,0.6141,1,Mathematics
+What is the volume of a cube with side 3?,27,9,0.7164,0,Mathematics
+What is the probability of rolling a 6 on a fair die?,1/6,1/6,0.5926,1,Mathematics
+What is the greatest common divisor of 12 and 18?,6,6,0.66,1,Mathematics
+What is the least common multiple of 4 and 6?,12,2,0.7164,0,Mathematics
+What is 0.5 as a fraction?,1/2,1/2,0.6163,1,Mathematics
+What is the quadratic formula used for?,Quadratic equations,Quadratic equations,0.5633,1,Mathematics
+Who wrote 'Romeo and Juliet'?,William Shakespeare,Jane Austen,0.7164,0,Literature
+Who wrote '1984'?,George Orwell,Aldous Huxley,0.7164,0,Literature
+Who wrote 'To Kill a Mockingbird'?,Harper Lee,Harper Lee,0.5581,1,Literature
+What is the first book of the Harry Potter series?,Philosopher's Stone,Philosopher's Stone,0.5942,1,Literature
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,John Steinbeck,0.6218,0,Literature
+Who wrote 'Pride and Prejudice'?,Jane Austen,Jane Austen,0.5606,1,Literature
+Who wrote 'The Odyssey'?,Homer,Homer,0.604,1,Literature
+What is the name of the whale in Moby-Dick?,Moby Dick,Moby Dick,0.5825,1,Literature
+Who wrote 'Crime and Punishment'?,Fyodor Dostoevsky,Fyodor Dostoevsky,0.5865,1,Literature
+Who wrote 'The Catcher in the Rye'?,J.D. Salinger,Harper Lee,0.6273,0,Literature
+Who wrote 'Don Quixote'?,Miguel de Cervantes,Pablo Neruda,0.6105,0,Literature
+Who wrote 'The Divine Comedy'?,Dante Alighieri,Dante Alighieri,0.5602,1,Literature
+What is the fictional land in 'The Lord of the Rings'?,Middle-earth,Middle-earth,0.5672,1,Literature
+Who wrote 'War and Peace'?,Leo Tolstoy,Anton Chekhov,0.7,0,Literature
+Who wrote 'The Adventures of Huckleberry Finn'?,Mark Twain,Mark Twain,0.6139,1,Literature
+Who wrote 'Frankenstein'?,Mary Shelley,Edgar Allan Poe,0.5319,0,Literature
+Who wrote 'The Picture of Dorian Gray'?,Oscar Wilde,George Bernard Shaw,0.6801,0,Literature
+Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,0.5921,1,Literature
+Who wrote 'The Hobbit'?,J.R.R. Tolkien,J.K. Rowling,0.593,0,Literature
+Who wrote 'Brave New World'?,Aldous Huxley,Aldous Huxley,0.6055,1,Literature
+What is the longest river in the world?,Nile,Mississippi,0.652,0,Geography
+What is the largest continent by area?,Asia,Africa,0.6603,0,Geography
+What is the capital of France?,Paris,Paris,0.5971,1,Geography
+What is the smallest country in the world?,Vatican City,Monaco,0.6429,0,Geography
+What desert is the largest hot desert?,Sahara,Sahara,0.6288,1,Geography
+What mountain is the tallest in the world?,Mount Everest,Mount Everest,0.5855,1,Geography
+What is the largest ocean?,Pacific,Pacific,0.6289,1,Geography
+What country has the most people?,India,India,0.5731,1,Geography
+What is the capital of Japan?,Tokyo,Tokyo,0.572,1,Geography
+What is the longest mountain range on land?,Andes,Himalayas,0.5921,0,Geography
+What is the largest lake by surface area?,Caspian Sea,Caspian Sea,0.6671,1,Geography
+What is the deepest point in the ocean?,Mariana Trench,Java Trench,0.5626,0,Geography
+What country is both in Europe and Asia?,Turkey,Turkey,0.5902,1,Geography
+What river flows through London?,Thames,Thames,0.5906,1,Geography
+What is the capital of Australia?,Canberra,Sydney,0.7164,0,Geography
+What is the largest island in the world?,Greenland,New Guinea,0.5447,0,Geography
+What strait separates Asia from North America?,Bering,Bering,0.5611,1,Geography
+What is the driest inhabited continent?,Australia,Australia,0.6217,1,Geography
+What country has the most time zones?,France,France,0.5808,1,Geography
+What canal connects the Mediterranean to the Red Sea?,Suez Canal,Suez Canal,0.5846,1,Geography
+Who is considered the father of the computer?,Charles Babbage,Charles Babbage,0.5929,1,Technology
+What does CPU stand for?,Central Processing Unit,Central Processing Unit,0.5893,1,Technology
+What is the main language of the web?,HTML,C++,0.6245,0,Technology
+What does 'HTTP' stand for?,HyperText Transfer Protocol,High-Tech Transfer Protocol,0.6189,0,Technology
+What company developed the iPhone?,Apple,Google,0.6185,0,Technology
+What is the binary representation of 5?,101,100,0.7164,0,Technology
+What does RAM stand for?,Random Access Memory,Random Access Memory,0.6221,1,Technology
+Who created Linux?,Linus Torvalds,Bill Gates,0.5403,0,Technology
+What does SQL stand for?,Structured Query Language,Standard Query Language,0.646,0,Technology
+What is the smallest unit of digital data?,Bit,Bit,0.5705,1,Technology
+What year was the first iPhone released?,2007,2006,0.7164,0,Technology
+What does 'AI' stand for?,Artificial Intelligence,Artificial Intelligence,0.5737,1,Technology
+What is the most popular programming language in 2024?,Python,JavaScript,0.6807,0,Technology
+What company created the Android OS?,Google,Google,0.687,1,Technology
+What protocol is used for secure web communication?,HTTPS,HTTPS,0.6528,1,Technology
+What does 'DNS' stand for?,Domain Name System,Data Network Security,0.6332,0,Technology
+Who is known as the father of AI?,Alan Turing,Alan Turing,0.5481,1,Technology
+What is the decimal value of hex FF?,255,255,0.6169,1,Technology
+What programming paradigm does Python primarily support?,Object-oriented,Object-oriented,0.6082,1,Technology
+What does 'API' stand for?,Application Programming Interface,Application Programming Interface,0.6002,1,Technology
+"Who said 'I think, therefore I am'?",Descartes,Descartes,0.572,1,Philosophy
+Who wrote 'The Republic'?,Plato,Plato,0.6028,1,Philosophy
+Who is considered the father of Western philosophy?,Socrates,Aristotle,0.5574,0,Philosophy
+What philosophical concept is Kant famous for?,The categorical imperative,The unexamined life,0.7164,0,Philosophy
+Who wrote 'Beyond Good and Evil'?,Friedrich Nietzsche,Friedrich Nietzsche,0.5591,1,Philosophy
+What is the philosophical study of being called?,Ontology,Ontology,0.566,1,Philosophy
+Who proposed the social contract theory?,All of the above,All of the above,0.5929,1,Philosophy
+What is the study of knowledge called?,Epistemology,Logic,0.6136,0,Philosophy
+Who wrote 'Thus Spoke Zarathustra'?,Friedrich Nietzsche,Immanuel Kant,0.7164,0,Philosophy
+What school of thought emphasizes individual existence and freedom?,Existentialism,Existentialism,0.5696,1,Philosophy
+What is the name of Earth's only natural satellite?,Moon,Moon,0.5776,1,Astronomy
+What type of star is the Sun?,Yellow dwarf,White dwarf,0.6403,0,Astronomy
+What is a group of stars called?,Constellation,Nebula,0.7092,0,Astronomy
+What is the largest moon of Jupiter?,Ganymede,Ganymede,0.5871,1,Astronomy
+What is a comet's tail made of?,Gas and dust,Plasma,0.7164,0,Astronomy
+What astronomical event occurs when the Moon passes between Earth and Sun?,Solar eclipse,Solar eclipse,0.5943,1,Astronomy
+What is the nearest star to Earth after the Sun?,Proxima Centauri,Proxima Centauri,0.5914,1,Astronomy
+What is a dying star that has collapsed called?,White dwarf,White dwarf,0.5463,1,Astronomy
+What is the main belt of asteroids between?,Mars and Jupiter,Mars and Jupiter,0.5867,1,Astronomy
+What year was Pluto reclassified as a dwarf planet?,2006,2006,0.6102,1,Astronomy
+What controls the cell's activities?,Nucleus,Nucleus,0.6122,1,Biology
+What is the basic unit of life?,Cell,Cell,0.5837,1,Biology
+What system breaks down food?,Digestive,Respiratory,0.603,0,Biology
+What organ pumps blood?,Heart,Heart,0.5764,1,Biology
+What is the largest group in classification?,Kingdom,Kingdom,0.6108,1,Biology
+What is the molecule that carries genetic information?,DNA,DNA,0.6016,1,Biology
+What process releases energy from glucose?,Respiration,Respiration,0.5736,1,Biology
+What type of cell has a nucleus?,Eukaryotic,Eukaryotic,0.6162,1,Biology
+What is the study of living things called?,Biology,Biology,0.6094,1,Biology
+What system fights infection?,Immune,Circulatory,0.6141,0,Biology
+What is the lightest element?,Hydrogen,Hydrogen,0.5948,1,Chemistry
+What is the chemical symbol for silver?,Ag,Ag,0.5953,1,Chemistry
+What is the chemical symbol for lead?,Pb,Pb,0.5792,1,Chemistry
+What is the pH of lemon juice?,2,2,0.6465,1,Chemistry
+What type of reaction absorbs heat?,Endothermic,Endothermic,0.5709,1,Chemistry
+What is the most abundant element in Earth's crust?,Oxygen,Oxygen,0.6031,1,Chemistry
+What is the chemical formula for ammonia?,NH3,N2O,0.7164,0,Chemistry
+What is the process of a solid turning directly into gas?,Sublimation,Sublimation,0.5499,1,Chemistry
+What element has the symbol 'C'?,Carbon,Carbon,0.6468,1,Chemistry
+What is the common name for dihydrogen monoxide?,Water,Water,0.5563,1,Chemistry
+What is Newton's first law about?,Inertia,Acceleration,0.5611,0,Physics
+What law states energy cannot be created or destroyed?,First law of thermodynamics,Ohm's law,0.7164,0,Physics
+What is the unit of power?,Watt,Watt,0.6163,1,Physics
+What type of wave is light?,Transverse,Transverse,0.6022,1,Physics
+What is the acceleration due to gravity on Earth (m/s^2)?,9.8,7.8,0.5468,0,Physics
+"What law relates voltage, current, and resistance?",Ohm's law,Coulomb's law,0.7164,0,Physics
+What is the speed of light approximately (km/s)?,"300,000","500,000",0.6107,0,Physics
+What particle mediates the electromagnetic force?,Photon,Photon,0.5927,1,Physics
+What is the change in velocity over time called?,Acceleration,Momentum,0.6578,0,Physics
+What law states for every action there is an equal reaction?,Newton's third,Newton's third,0.61,1,Physics
+What is the largest ocean?,Pacific,Pacific,0.6289,1,Geography
+What is the chemical formula for table salt?,NaCl,KCl,0.5804,0,Science
+What force keeps planets in orbit around the sun?,Gravity,Gravity,0.583,1,Science
+What is the most popular programming language in 2024?,Python,JavaScript,0.6807,0,Technology
+What is the study of heredity called?,Genetics,Genetics,0.7039,1,Science
+What is the name of the galaxy closest to the Milky Way?,Andromeda,Triangulum,0.5672,0,Science
+What is the main source of energy for Earth?,Sun,Sun,0.6564,1,Science
+What is the largest internal organ in the human body?,Liver,Heart,0.7099,0,Science
+What does 'AI' stand for?,Artificial Intelligence,Artificial Intelligence,0.5737,1,Technology
+What type of rock is formed from cooled magma?,Igneous,Metamorphic,0.5725,0,Science
+What strait separates Asia from North America?,Bering,Bering,0.5611,1,Geography
+What is the speed of light approximately (km/s)?,"300,000","500,000",0.6107,0,Physics
+What is the chemical symbol for silver?,Ag,Ag,0.5953,1,Chemistry
+Who wrote 'To Kill a Mockingbird'?,Harper Lee,Harper Lee,0.5581,1,Literature
+What is the freezing point of water in Celsius?,0,32,0.7139,0,Science
+Who wrote 'The Adventures of Huckleberry Finn'?,Mark Twain,Mark Twain,0.6139,1,Literature
+What is the value of pi to two decimal places?,3.14,3.14,0.5808,1,Mathematics
+What is the boiling point of water at sea level in Celsius?,100,100,0.6222,1,Science
+What is the hardest natural substance?,Diamond,Diamond,0.7164,1,Science
+Which planet has the most moons?,Saturn,Saturn,0.605,1,Science
+What element is liquid at room temperature?,Mercury,Lead,0.7164,0,Science
+What is the chemical symbol for potassium?,K,K,0.6148,1,Science
+What is the value of sin(90 degrees)?,1,0,0.5692,0,Mathematics
+Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez,Gabriel Garcia Marquez,0.5921,1,Literature
+What particle mediates the electromagnetic force?,Photon,Photon,0.5927,1,Physics
+Who wrote 'The Odyssey'?,Homer,Homer,0.604,1,Literature
+What type of lens is thicker at the center?,Convex,Concave,0.5493,0,Science
+What does RAM stand for?,Random Access Memory,Random Access Memory,0.6221,1,Technology
+What is the longest mountain range on land?,Andes,Himalayas,0.5921,0,Geography
+What is the main language of the web?,HTML,C++,0.6245,0,Technology
+What is the chemical formula for ammonia?,NH3,N2O,0.7164,0,Chemistry
+What is the square root of 144?,12,11,0.6369,0,Mathematics
+What is the process of cell division in somatic cells?,Mitosis,Mitosis,0.5841,1,Science
+What is the value of 2^10?,1024,256,0.5864,0,Mathematics
+Who wrote 'War and Peace'?,Leo Tolstoy,Anton Chekhov,0.7,0,Literature
+What planet has the Great Red Spot?,Jupiter,Neptune,0.7164,0,Science
+What is the name of Earth's only natural satellite?,Moon,Moon,0.5776,1,Astronomy
+What planet is known as the Red Planet?,Mars,Jupiter,0.6787,0,Science
+What is the decimal value of hex FF?,255,255,0.6169,1,Technology
+What school of thought emphasizes individual existence and freedom?,Existentialism,Existentialism,0.5696,1,Philosophy
+Which planet rotates on its side?,Uranus,Saturn,0.5628,0,Science
+What does CPU stand for?,Central Processing Unit,Central Processing Unit,0.5893,1,Technology
+What is the pH of lemon juice?,2,2,0.6465,1,Chemistry
+Who led the Indian independence movement?,Mahatma Gandhi,Subhas Chandra Bose,0.7164,0,History
+What is a comet's tail made of?,Gas and dust,Plasma,0.7164,0,Astronomy
+What is the DNA shape called?,Double helix,Double helix,0.6314,1,Science
+What system fights infection?,Immune,Circulatory,0.6141,0,Biology
+What programming paradigm does Python primarily support?,Object-oriented,Object-oriented,0.6082,1,Technology
+What year did the Titanic sink?,1912,1910,0.5983,0,History
+What is Newton's first law about?,Inertia,Acceleration,0.5611,0,Physics
+What is the lightest element?,Hydrogen,Hydrogen,0.5948,1,Chemistry
+Who was the first Emperor of Rome?,Augustus,Julius Caesar,0.7164,0,History
+What is the chemical formula for water?,H2O,H2O,0.6206,1,Science
